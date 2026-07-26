@@ -1,0 +1,5 @@
+http://sample.com
+yahoo.com
+https://google.com
+scaler.com
+http://github.com

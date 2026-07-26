@@ -1,0 +1,4 @@
+hello
+hi
+bye
+conig is all
